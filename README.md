@@ -94,7 +94,7 @@ Allow
 Create Target Group
 
 ```
-TG-Web-V1
+Web-tg-1
 ```
 
 Register
@@ -115,7 +115,7 @@ MyALB
 Attach
 
 ```
-TG-Web-V1
+Web-tg-2
 ```
 
 ---
