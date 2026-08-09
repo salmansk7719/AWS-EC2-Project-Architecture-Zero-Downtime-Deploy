@@ -232,5 +232,5 @@ Successfully deployed an updated version of the website without changing the URL
 
 # 👨‍💻 Author
 
-**Samir Shaikh**
+**Salman Shaikh**
 
